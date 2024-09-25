@@ -14,3 +14,5 @@
 7.[https://github.com/2303A52083/23CSBTB39-AIML/blob/main/AIML_A5.ipynb]
 
 8.[https://github.com/2303A52083/23CSBTB39-AIML/blob/main/AIML_A6.ipynb]
+
+9.[https://github.com/2303A52083/23CSBTB39-AIML/blob/main/AIML_A7.ipynb]
